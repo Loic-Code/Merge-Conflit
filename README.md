@@ -1,3 +1,3 @@
-# Merge-Conflit
+# Merge-ConflitLOCAL
 
 Hello my friend !
